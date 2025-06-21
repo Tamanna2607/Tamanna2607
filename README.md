@@ -72,15 +72,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna2607&show_icons=true&theme=tokyonight" alt="Tamanna's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna2607&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p>
