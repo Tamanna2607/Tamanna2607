@@ -69,6 +69,7 @@
 - ✅ IBM SkillsBuild Certification  
 - ✅ Cybersecurity Fundamentals - Zscaler  
 - ✅ AI Tools Workshop - ByBe10X  
+- ✅ React BootCamp - Let's Upgrade
 
 ---
 
